@@ -1,6 +1,5 @@
 # Search
 
-A lightweight front-end application for Google Search.
 
 ## Description
 
